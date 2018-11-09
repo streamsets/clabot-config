@@ -1,5 +1,5 @@
 {
   "contributors": [],
-  "message": "In order to become a contributor to StreamSets open-source projects on Github you must sign the Contributor License Agreement.  StreamSets will not accept any pull requests or source contributions unless you sign the CLA.\n\nSeparate CLA's exist for Individuals (Independent Contributor License Agreement), and Corporations (Corporate Contributor License Agreement).The CLA grants a copyright and patent license to StreamSets, and users of the software, states that you are legally entitled to grant such a license.",
+  "message": "In order to become a contributor to StreamSets open-source projects on Github you must sign the [Contributor License Agreement](https://streamsets.com/contributing/).  StreamSets will not accept any pull requests or source contributions unless you sign the CLA.\n\nSeparate CLA's exist for Individuals (Independent Contributor License Agreement), and Corporations (Corporate Contributor License Agreement).The CLA grants a copyright and patent license to StreamSets, and users of the software, states that you are legally entitled to grant such a license.",
   "recheckComment": "recheck-cla"
 }
